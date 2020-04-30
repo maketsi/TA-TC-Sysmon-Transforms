@@ -8,6 +8,12 @@ The parent package TA-TC-Sysmon contains the search-time knowledge objects, and 
 Original events are expected to have sourcetype XmlWinEventLog:Microsoft-Windows-Sysmon/Operational
 
 
+## Sysmon support
+
+This addon is up-to-date with Sysmon 11.0, supporting all its event types. Further upgrades are needed if new event IDs are introduced.
+Unknown event IDs will default to sane sourcetype.
+
+
 ## Author
 
-Markku Parviainen, 2019
+Markku Parviainen, 2019-2020
