@@ -1,4 +1,5 @@
 *~
 *.bak
-local/*
-metadata/local.meta
+*.old
+TA-TC-Sysmon-Transforms/local/*
+TA-TC-Sysmon-Transforms/metadata/local.meta
