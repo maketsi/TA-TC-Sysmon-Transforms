@@ -25,4 +25,5 @@ signature_id,name
 24,clipboardchanged
 25,processtampering
 26,filedeletedlog
+27,fileblockexecutable
 255,error
