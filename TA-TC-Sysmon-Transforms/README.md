@@ -15,7 +15,7 @@ Additionally, event type ID (e.g. 1) is extracted to CIM-compatible index-time f
 
 ## Sysmon support
 
-This addon is up-to-date with Sysmon 13.34, supporting all its event types. Further upgrades to bundled CSV lookup file
+This addon is up-to-date with Sysmon 14.00, supporting all its event types. Further upgrades to bundled CSV lookup file
 are needed if new event IDs are introduced. Unknown event IDs will default to sourcetype 'sysmon:events' and are still parseable
 by TA-TC-Sysmon, but that should be considered a fallback.
 
